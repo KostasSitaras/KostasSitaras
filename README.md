@@ -4,6 +4,10 @@
 
 ### Software Developer | Applied Informatics
 
+![Location](https://img.shields.io/badge/Location-Thessaloniki%2C%20Greece-0A66C2?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Junior%20Developer%20Roles-2EA043?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20Python-F59E0B?style=for-the-badge)
+
 Building practical software projects while growing across full-stack development, Python and modern web technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-181717?style=for-the-badge&logo=github)](https://kostassitaras.github.io/First_React_RobotWeb/)
