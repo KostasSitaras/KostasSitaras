@@ -50,8 +50,7 @@ Building practical software projects while growing across full-stack development
 | Project | Description | Tech |
 |---|---|---|
 | [Developer Portfolio](https://github.com/KostasSitaras/First_React_RobotWeb) | Responsive developer portfolio showcasing my skills, projects and experience. | React, Vite, Tailwind CSS |
-| [Portfolio Web](https://github.com/KostasSitaras/Portfolio_Web) | Web development project focused on building and improving my personal developer presence. | Web Development |
-| [Python Basics](https://github.com/KostasSitaras/01-python-basics) | Command-line calculator project built while practicing Python fundamentals and Git workflows. | Python, Git |
+
 
 ## GitHub Activity
 
